@@ -1,8 +1,12 @@
 {
-  "ida": [
-    {
-      "id": "6300978111"
-    }
+  "ida": "6300978111",
+  "latestVersion": "1.2.2",
+  "latestVersionCode": "10",
+  "url": "https:/releases",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
   ],
   "manis": [
     {
