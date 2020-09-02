@@ -10,10 +10,10 @@
   "key_MOid": "11a17b188668469fb0412708c3d16813",
   "keyB_MO": "b195f8dd8ded45fe847ad89ed1d016da,b195f8dd8ded45fe847ad89ed1d016da",
   "keyI_MO": "24534e1901884e398f1253216226017e,24534e1901884e398f1253216226017e,24534e1901884e398f1253216226017e",
-  "keyB_UN": "3054608/banner",
-  "keyI_UN": "1234567/video",
+"key_UNid": "3658961",
+  "keyB_UN": "banner",
+  "keyI_UN": "video",
   "compactAds": "UN",
-   "zzz": "UN,AD,FA,MO",
   "timerNext": "0:00:10",
   "viersonsda": "3"
 }
