@@ -17,7 +17,7 @@
   "keyB_UN": "banner",
   "keyI_UN": "video",
  
-  "compactAds": "UN",
+  "compactAds": "UN,AD,FA,MO",
   "timerNext": "0:00:10",
   "viersonsda": "9"
 }
