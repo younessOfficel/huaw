@@ -1,22 +1,10 @@
 {
-  "args": {}, 
-  "data": "", 
-  "files": {}, 
-  "form": {
-    "CODE": "1111", 
-    "email": "helloworld@gmail.com", 
-    "message": "Hello Post Test success", 
-    "name": "Jinu Jawad"
-  }, 
-  "headers": {
-    "Accept": "text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2", 
-    "Connection": "close", 
-    "Content-Length": "86", 
-    "Content-Type": "application/x-www-form-urlencoded", 
-    "Host": "httpbin.org", 
-    "User-Agent": "Java/1.8.0_131"
-  }, 
-  "json": null, 
-  "origin": "78.100.217.219", 
-  "url": "http://httpbin.org/post"
+  "data": [
+    {
+      "last_name": "Bluth",
+      "id": 1,
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg",
+      "first_name": "George"
+    }
+  ]
 }
