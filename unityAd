@@ -1,23 +1,46 @@
 {
   "police": "https://twitter.com",
   "keyword": "usa,washinton",
-  "key_ADid": "3347511713222",
-  "key_ADunit": "3940256099942544",
-  "keyB_AD": "6300978111,6300978111",
-  "keyI_AD": "1033173712,1033173712,1033173712",
-  "keyB_FA": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID,IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "keyI_FA": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID,IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID,IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "key_N_FA": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-
-  "key_MOid": "11a17b188668469fb0412708c3d16813",
-  "keyB_MO": "b195f8dd8ded45fe847ad89ed1d016da,b195f8dd8ded45fe847ad89ed1d016da",
-  "keyI_MO": "24534e1901884e398f1253216226017e,24534e1901884e398f1253216226017e,24534e1901884e398f1253216226017e",
-  "keyN_MO": "11a17b188668469fb0412708c3d16813",
-"key_UNid": "3658961",
-  "keyB_UN": "banner",
-  "keyI_UN": "video",
- 
-  "compactAds": "MO",
+  "compactAds": "AD",
   "timerNext": "0:00:10",
-  "viersonsda": "18"
+  "viersonsda": "18",
+  "AD": [
+    {
+      "Iadsn": "3940256099942544",
+      "Idapp": "3347511713",
+      "Baner": "6300978111",
+      "Rewrd": "5224354917,5354046379",
+      "Inters": "1033173712,8691691433",
+      "Native": "2247696110,1044960115"
+    }
+  ],
+  "ME": [
+    {
+
+      "Baner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID,IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Inters": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID,IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID,IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+
+    }
+  ],
+  "UN": [
+    {
+
+      "Idapp": "1234567",
+      "Baner": "bottomBanner,topBanner",
+      "Inters": "video",
+      "Rewrd": "rewardedVideo"
+
+    }
+  ],
+  "HU": [
+    {
+
+      "Baner": "testw6vs28auh3",
+      "Rewrd": "testx9dtjwj8hp",
+      "Inters": "teste9ih9j0rc3,testb4znbuh3n2",
+      "Native": "testu7m3hc4gvm,testb65czjivt9,testy63txaom86"
+
+    }
+  ]
 }
