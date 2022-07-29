@@ -5,13 +5,13 @@
   "timerNext": "0:00:10",
   "viersonsda": "22",
   "systemFalseTrue": false,
-  "systemClick": 0,
-   
+  "systemClick": "0",
+
   "XU": [
     {
-      "iSeconds": 15,
+      "iSeconds": "15",
       "urlAdsXui": "https://raw.githubusercontent.com/p32929/SomeHowTosAndTexts/master/HouseAdsJson/house_ads2.json"
-      
+
     }
   ],
   "AD": [
@@ -37,7 +37,7 @@
       "Baner": "bannerads",
       "Inters": "video",
       "Rewrd": "rewardedVideo"
-  
+
     }
   ],
   "HU": [
