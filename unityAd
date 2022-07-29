@@ -1,11 +1,19 @@
 {
   "police": "https://twitter.com",
   "keyword": "usa,washinton",
-  "compactAds": "AD",
+  "compactAds": "AD,XU,ME,HU,UN",
   "timerNext": "0:00:10",
-  "viersonsda": "21",
-  "systemFalseTrue": true,
+  "viersonsda": "22",
+  "systemFalseTrue": false,
   "systemClick": 0,
+   
+  "XU": [
+    {
+      "iSeconds": 15,
+      "urlAdsXui": "https://raw.githubusercontent.com/p32929/SomeHowTosAndTexts/master/HouseAdsJson/house_ads2.json"
+      
+    }
+  ],
   "AD": [
     {
       "Iadsn": "3940256099942544",
