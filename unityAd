@@ -25,11 +25,11 @@
   ],
   "UN": [
     {
-      "Idapp": "1234567",
-      "Baner": "bottomBanner,topBanner",
+      "Idapp": "14851",
+      "Baner": "bannerads",
       "Inters": "video",
-      "Rewrd": "rewardedVideo",
-      "Native": ""
+      "Rewrd": "rewardedVideo"
+  
     }
   ],
   "HU": [
