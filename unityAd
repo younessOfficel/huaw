@@ -1,9 +1,9 @@
 {
   "police": "https://twitter.com",
   "keyword": "usa,washinton",
-  "compactAds": "UN,AD,ME,HU",
+  "compactAds": "AD",
   "timerNext": "0:00:10",
-  "viersonsda": "19",
+  "viersonsda": "20",
   "systemFalseTrue": true,
   "systemClick": 0,
   "AD": [
